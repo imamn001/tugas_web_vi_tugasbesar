@@ -1,0 +1,35 @@
+#header-top {
+	background: #000;
+}
+
+#menu-top li a {
+	color: #fff;
+}
+
+#menu-top li a:hover {
+	background: none;
+	color: #008BCA;
+}
+
+#header-mid {
+	padding-top: 20px;
+	padding-bottom: 20px; 
+}
+
+#navbar-default {
+	background: #000;
+}
+
+#navbar li a {
+	color: #fff;
+	transition: all 0.8s;
+}
+
+#navbar li:first-child {
+	background: #008BCA;
+}
+
+#navbar li a:hover {
+	background: #008BCA;
+
+}
